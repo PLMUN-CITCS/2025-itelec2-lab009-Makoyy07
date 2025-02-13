@@ -1,6 +1,3 @@
-user_input = input("Enter a number: ")
-number = int(user_input)
-
 try:
     user_input = input("Enter a number: ")
     number = int(user_input)  # Sinusubukang i-convert sa integer
